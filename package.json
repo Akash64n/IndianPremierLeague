@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "json": "^11.0.0"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "first.js",
+
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
